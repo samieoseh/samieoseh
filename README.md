@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samieoseh
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Java
 - 📫 How to reach me samieoseh@gmail.com
 
 <!---
