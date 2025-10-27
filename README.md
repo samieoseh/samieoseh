@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @samieoseh
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java
 - 📫 How to reach me samieoseh@gmail.com
 
 <!---
